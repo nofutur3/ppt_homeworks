@@ -2,7 +2,7 @@
 
 ## Fibonacci
 
-Ve složce `02-invoice`
+Ve složce `03-fibonacci`
 
 - CLI app v Main.java
 - algoritmus v Fibonacci.java
@@ -10,6 +10,8 @@ Ve složce `02-invoice`
 - javadoc v `doc/`
 
 ## Faktury
+
+Ve složce `02-invoice`
 
 - CLI app v Main.java
 - testy v `src/test/java`
