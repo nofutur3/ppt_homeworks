@@ -3,6 +3,9 @@ package Model;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * Trida pro prijate faktury
+ */
 public class FakturaPrijata extends Faktura {
 
     public FakturaPrijata(String cislo, UdajePlatby udajePlatby, PolozkyPlatby polozkyPlatby, String adresat, Date datumSplatnosti) {

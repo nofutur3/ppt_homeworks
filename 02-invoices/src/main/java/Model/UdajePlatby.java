@@ -1,12 +1,20 @@
 package Model;
 
+/**
+ * Trida pro praci s udaji platby
+ */
 public class UdajePlatby {
-    // vs, ss, ks
 
     private String vs;
     private String ss;
     private String ks;
 
+    /**
+     *
+     * @param vs - variabilni symbol
+     * @param ss - specificky symbol
+     * @param ks - konstantni symbol
+     */
     public UdajePlatby(String vs, String ss, String ks) {
         this.vs = vs;
         this.ss = ss;

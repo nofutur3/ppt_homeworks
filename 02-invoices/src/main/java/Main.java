@@ -2,7 +2,6 @@ import Model.*;
 import com.github.javafaker.Faker;
 
 import java.util.ArrayList;
-import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 
 public class Main {

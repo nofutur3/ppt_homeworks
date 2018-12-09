@@ -3,6 +3,9 @@ package Model;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * Trida pro vydane faktury
+ */
 public class FakturaVydana extends Faktura {
     public FakturaVydana(String cislo, UdajePlatby udajePlatby, PolozkyPlatby polozkyPlatby, String adresat, Date datumSplatnosti) {
         super(cislo, udajePlatby, polozkyPlatby, adresat, datumSplatnosti);
