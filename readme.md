@@ -1,6 +1,8 @@
 # PPT
 
-## Fibonacci
+## První sada úkolů
+
+### Fibonacci
 
 Ve složce `03-fibonacci`
 
@@ -9,10 +11,14 @@ Ve složce `03-fibonacci`
 - testy v `src/test/java`
 - javadoc v `doc/`
 
-## Faktury
+### Faktury
 
 Ve složce `02-invoice`
 
 - CLI app v Main.java
 - testy v `src/test/java`
 - javadoc v `doc/`
+
+## Druhá sada úkolů
+
+### Práce s CSV
