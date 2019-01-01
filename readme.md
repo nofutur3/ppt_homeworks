@@ -4,7 +4,7 @@
 
 ### Fibonacci
 
-Ve složce `03-fibonacci`
+Ve složce `01-03-fibonacci`
 
 - CLI app v Main.java
 - algoritmus v Fibonacci.java
@@ -13,7 +13,7 @@ Ve složce `03-fibonacci`
 
 ### Faktury
 
-Ve složce `02-invoice`
+Ve složce `01-02-invoices`
 
 - CLI app v Main.java
 - testy v `src/test/java`
@@ -22,3 +22,5 @@ Ve složce `02-invoice`
 ## Druhá sada úkolů
 
 ### Práce s CSV
+
+Ve složce `02-csv-tool`
